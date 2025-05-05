@@ -1,0 +1,10 @@
+path: /Users/dayaldonadkar/Desktop/Piece_Detector/dataset  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Black Outline Piece
+  1: White Outline Piece
+
+nc: 2  # number of classes

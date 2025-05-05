@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Piece_Detector",
+			"path": "."
+		},
+		{
+			"name": "new data for training",
+			"path": "../../Downloads/new data for training"
+		}
+	],
+	"settings": {}
+}
